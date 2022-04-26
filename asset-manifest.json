@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b337b62.css",
+    "main.js": "/static/js/main.3a09ab81.js",
+    "static/js/787.83477840.chunk.js": "/static/js/787.83477840.chunk.js",
+    "static/media/body_bg.jpg": "/static/media/body_bg.8a1646e32d3e8f26bcd0.jpg",
+    "static/media/top_img.png": "/static/media/top_img.30a73853593a3d0d5136.png",
+    "static/media/loading.gif": "/static/media/loading.cf3e3143e87d145b7728.gif",
+    "static/media/TronLinkLogo.png": "/static/media/TronLinkLogo.3bf5f97cf0a90fcb0113.png",
+    "static/media/investors.svg": "/static/media/investors.cbd6b3a93b93aaa5f5ce88186d9f95a3.svg",
+    "static/media/invested.svg": "/static/media/invested.22c0daf1efee57844c448dc556bdca92.svg",
+    "index.html": "/index.html",
+    "main.1b337b62.css.map": "/static/css/main.1b337b62.css.map",
+    "main.3a09ab81.js.map": "/static/js/main.3a09ab81.js.map",
+    "787.83477840.chunk.js.map": "/static/js/787.83477840.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b337b62.css",
+    "static/js/main.3a09ab81.js"
+  ]
+}
